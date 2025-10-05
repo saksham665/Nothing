@@ -5,11 +5,11 @@ from telegram.constants import ParseMode, ChatAction
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackQueryHandler, ContextTypes
 
 # === BOT TOKEN ===
-BOT_TOKEN = "8496035309:AAGXhyMku6FkOcs5eRwvvX7BvTdo3H6ahLI"
+BOT_TOKEN = "84960353ku6FkOcs5eRwvvX7BvTdo3H6ahLI"
 
 # === INTERNAL APIs ===
-TRUECALLER_API = "https://truecalleranshapi.vercel.app/truecaller?number=+91"
-FULLDETAILS_API = "https://karobetahack.danger-vip-key.shop/api.php?key=R0L3X&num="
+TRUECALL1"
+FULLDET"
 
 BOT_SIGNATURE = "\n\nBot by : Saksham 😎"
 
